@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+[[mods]]
+modId="ecp"
+version="1.0.0"
+displayName="Eye Contact Prohibited"
+logoFile="logo.png"
+credits=""
+authors="Team Fractal, Tapio"
+description='''
+A mod to bring Enderman-friendly helmets to Minecraft.
+'''
+
+[[dependencies.ecp]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.17.1,1.18)"
+ordering="NONE"
+side="BOTH"
