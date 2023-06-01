@@ -1,7 +1,7 @@
-package com.teamfractal.ecp.common.util;
+package committee.nova.ecp.common.util;
 
-import com.teamfractal.ecp.common.EyeContactProhibited;
-import com.teamfractal.ecp.common.armor.ECPArmorItems;
+import committee.nova.ecp.common.EyeContactProhibited;
+import committee.nova.ecp.common.armor.ECPArmorItems;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;

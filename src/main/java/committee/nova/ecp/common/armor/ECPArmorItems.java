@@ -1,6 +1,6 @@
-package com.teamfractal.ecp.common.armor;
+package committee.nova.ecp.common.armor;
 
-import com.teamfractal.ecp.common.util.ECPRegistryHandler;
+import committee.nova.ecp.common.util.ECPRegistryHandler;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.CreativeModeTab;
@@ -9,7 +9,6 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.registries.RegistryObject;
 
 public class ECPArmorItems {
-
     public static RegistryObject<Item> leatherMaskedHelmet;
     public static RegistryObject<Item> chainMaskedHelmet;
     public static RegistryObject<Item> ironMaskedHelmet;

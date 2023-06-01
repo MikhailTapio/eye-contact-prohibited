@@ -1,6 +1,6 @@
-package com.teamfractal.ecp.common;
+package committee.nova.ecp.common;
 
-import com.teamfractal.ecp.common.util.ECPRegistryHandler;
+import committee.nova.ecp.common.util.ECPRegistryHandler;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 
